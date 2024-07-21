@@ -30,9 +30,12 @@ After licensing a running trial system, you must manually run the /system licens
 Download and execute the script
 
 Copy Mikrotik.sh content to the server and run below commands
+1
 ```
-
 chmod +755 Mikrotik.sh
+```
+2
+```
 ./Mikrotik.sh
 ```
 
