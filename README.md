@@ -1,5 +1,4 @@
-# Mikrotik on Linux
-# Mirotik CHR Installer
+# Mikrotik on Linux - Mirotik CHR Installer
 
 
 # Introduction: 
