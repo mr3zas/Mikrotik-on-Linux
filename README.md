@@ -36,8 +36,13 @@ chmod +755 Mikrotik.sh
 ```
 ./Mikrotik.sh
 ```
-The server will restart after the installation 
-- Connect to VPS via Winbox ----> [64bit](https://mikrotik.com/download/archive/) [32bit](https://mikrotik.com/download/archive/)
+Server will restart after the installation done, then connect to server via Winbox
+# 
+- Username: admin
+- password: blank
+# 
+
+# Winbox Downlod links [64bit](https://mikrotik.com/download/archive/) [32bit](https://mikrotik.com/download/archive/)
 
 
 
