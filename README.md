@@ -22,8 +22,6 @@ Perpetual is a lifetime license (buy once, use forever). It is possible to trans
 
 After licensing a running trial system, you must manually run the /system license renew function from the CHR to make it active. Otherwise, the system will not know you have licensed it in your account. If you do not do this before the system deadline time, the trial will end and you will have to do a complete fresh CHR installation, request a new trial, and then license it with the license you had obtained.
 
-Free	1Mbit	FREE
-P1	1Gbit	$45
-P10	10Gbit	$95
-P-Unlimited	Unlimited	$250
-
+# Requerments
+Ubuntu 20.04
+Ubuntu 22.04
