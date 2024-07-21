@@ -10,12 +10,12 @@ With this script, you can automatically install Mikrotik CHR by inserting a down
 
 # How it works
 CHR Licensing
- The CHR has 4 license levels:
+- The CHR has 4 license levels:
 
-free
-p1 perpetual-1 ($45)
-p10 perpetual-10 ($95)
-p-unlimited perpetual-unlimited ($250)
+1. free
+2. p1 perpetual-1 ($45)
+3. p10 perpetual-10 ($95)
+4. p-unlimited perpetual-unlimited ($250)
 The 60-day free trial license is available for all paid license levels. To get the free trial license, you have to have an account on MikroTik.com as all license management is done there.
 
 Perpetual is a lifetime license (buy once, use forever). It is possible to transfer a perpetual license to another CHR instance. A running CHR instance will indicate the time when it has to access the account server to renew its license. If the CHR instance will not be able to renew the license it will behave as if the trial period has run out and will not allow an upgrade of RouterOS to a newer version.
