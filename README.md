@@ -28,13 +28,14 @@ After licensing a running trial system, you must manually run the /system licens
 
 # Installation Instructions
 Copy Mikrotik.sh content to the server and run below commands
-- 1 
+- Step 1 
 ```
 chmod +755 Mikrotik.sh
 ```
-- 2
+- Step 2
 ```
 ./Mikrotik.sh
 ```
+Server will restart after installation 
 
 
