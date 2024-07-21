@@ -25,3 +25,5 @@ After licensing a running trial system, you must manually run the /system licens
 # Requerments
 - Ubuntu 20.04
 - Ubuntu 22.04
+
+# Installation Instructions
