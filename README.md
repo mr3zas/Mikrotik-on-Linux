@@ -27,8 +27,6 @@ After licensing a running trial system, you must manually run the /system licens
 - Ubuntu 22.04
 
 # Installation Instructions
-Download and execute the script
-
 Copy Mikrotik.sh content to the server and run below commands
 - 1 
 ```
