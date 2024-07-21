@@ -1,4 +1,4 @@
-# Mikrotik on Linux - Mirotik CHR Installer
+# Mikrotik on Linux VPS - Mirotik CHR Installer
 
 
 # Introduction: 
