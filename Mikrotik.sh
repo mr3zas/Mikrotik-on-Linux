@@ -1,8 +1,7 @@
 #!/bin/bash -e
 
 echo
-echo "=== Reza Simiari ==="
-echo "=== MikroTik CHR Installer ==="
+echo "=== MikroTik CHR Installer by mr3zas ==="
 echo
 
 # Ask the user to enter the new download link
