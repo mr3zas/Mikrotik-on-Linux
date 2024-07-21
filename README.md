@@ -3,6 +3,6 @@
 
 
 # Introduction: 
-With this script, you can automatically install Mikrotik chr by inserting a download link: Mikrotik Download Page
+With this script, you can automatically install Mikrotik CHR by inserting a download link: Mikrotik Download Page
 
-# How to Install,
+# How it works
