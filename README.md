@@ -42,7 +42,7 @@ Server will restart after the installation done, then connect to server via Winb
 - password: blank
 # 
 
-# Winbox Downlod links [64bit](https://mikrotik.com/download/archive/) [32bit](https://mikrotik.com/download/archive/)
+Winbox Downlod links [64bit](https://mikrotik.com/download/archive/) [32bit](https://mikrotik.com/download/archive/)
 
 
 
