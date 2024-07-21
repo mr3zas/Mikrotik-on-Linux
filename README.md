@@ -9,7 +9,7 @@ Cloud Hosted Router (CHR) is a RouterOS version intended for running as a virtua
 With this script, you can automatically install Mikrotik CHR by inserting a download link: [Mikrotik Download Page](https://mikrotik.com/download/archive/) OR leave the link request empty to install version 7.8 by default.
 
 # How it works
-CHR Licensing,
+CHR Licensing.
 The CHR has 4 license levels:
 
 free,
