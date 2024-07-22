@@ -37,7 +37,7 @@ chmod +755 Mikrotik.sh
 ```
 ./Mikrotik.sh
 ```
-Server will restart after the installation done, then connect to server via Winbox
+Server will restart after the installation is done, then connect to server via Winbox
 # 
 - Username: admin
 - Password: blank
