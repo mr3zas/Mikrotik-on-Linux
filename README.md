@@ -48,6 +48,7 @@ chmod +x specific VPS file.sh
 3- ./Hetzner.sh
 ```
 Server will restart after the installation is done, then connect to server via Winbox
+#
 Winbox Downlod links [64bit](https://mt.lv/winbox64) [32bit](https://mt.lv/winbox)
 # 
 - Username: admin
