@@ -1,12 +1,13 @@
 #!/bin/bash -e
 
+# Clear Page
+clear
+
 echo
 echo "=== MikroTik CHR Installer by mr3zas ==="
 echo
 
-# Clear Page
-clear
-
+#
 
 # Ask the user to enter the new download link
 read -p "Please enter the MikroTik CHR download link or press Enter to install default version : " download_link
