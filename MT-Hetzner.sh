@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 echo
 echo "=== MikroTik CHR Installer by mr3zas ==="
