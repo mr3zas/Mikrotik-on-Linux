@@ -28,6 +28,10 @@ After licensing a running trial system, you must manually run the /system licens
 With this script, you can automatically install Mikrotik CHR on your VPS by inserting a download link: [Mikrotik Download Page](https://mikrotik.com/download/archive/) OR leave the link request empty to install version 7.8 by default.
 # 
 
+Note that, you have to choose the correct *.sh file based on your VPS provider. (for example: if you purchase the VPS from Hetzner then you have to copy Hetzner.sh file content to the server)
+
+#
+
 Copy the content of the attached *.sh file based on your VPS host and run the below commands
 - Step 1 
 ```
