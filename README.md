@@ -39,8 +39,8 @@ chmod +x ****.sh
 ```
 - Example:
 ```
-chmod +x hetzner.sh
-./hetzner.sh
+chmod +x Hetzner.sh
+./Hetzner.sh
 ```
 Server will restart after the installation is done, then connect to server via Winbox
 # 
