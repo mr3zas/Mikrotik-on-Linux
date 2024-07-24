@@ -31,11 +31,11 @@ With this script, you can automatically install Mikrotik CHR by inserting a down
 Copy the content of the attached *.sh file based on your VPS host and run the below commands
 - Step 1 
 ```
-chmod +x ****.sh
+chmod +x specific VPS file.sh
 ```
 - Step 2
 ```
-./****.sh
+./specific VPS file.sh
 ```
 - Example:
 ```
