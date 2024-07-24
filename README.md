@@ -39,8 +39,9 @@ chmod +x ****.sh
 ```
 - Example:
 ```
-chmod +x Hetzner.sh
-./Hetzner.sh
+1- nano Hetzner.sh ----> copy attached Hetzner.sh file content to server
+2- chmod +x Hetzner.sh
+3- ./Hetzner.sh
 ```
 Server will restart after the installation is done, then connect to server via Winbox
 # 
