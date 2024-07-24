@@ -32,7 +32,7 @@ Note that, you have to choose the correct *.sh file based on your VPS provider. 
 
 #
 
-Copy the content of the attached *.sh file based on your VPS host and run the below commands
+Copy the content of the attached ( *.sh ) file based on your VPS host and run the below commands
 - Step 1 
 ```
 chmod +x specific VPS file.sh
