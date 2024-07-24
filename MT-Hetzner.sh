@@ -1,10 +1,5 @@
 #!/bin/bash -e
 
-# Clear Page
-clear
-
-sleep 3
-
 echo
 echo "=== MikroTik CHR Installer by mr3zas ==="
 echo
