@@ -28,14 +28,19 @@ After licensing a running trial system, you must manually run the /system licens
 With this script, you can automatically install Mikrotik CHR by inserting a download link: [Mikrotik Download Page](https://mikrotik.com/download/archive/) OR leave the link request empty to install version 7.8 by default.
 # 
 
-Copy Mikrotik.sh content to the server and run below commands
+Copy the content of the attached *.sh file based on your VPS host and run the below commands
 - Step 1 
 ```
-chmod +755 Mikrotik.sh
+chmod +x ****.sh
 ```
 - Step 2
 ```
-./Mikrotik.sh
+./****.sh
+```
+- Example:
+```
+chmod +x hetzner.sh
+./hetzner.sh
 ```
 Server will restart after the installation is done, then connect to server via Winbox
 # 
